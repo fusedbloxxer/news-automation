@@ -1,0 +1,8 @@
+Hello,
+
+We salute you and offer these great search results for your query:
+{0}
+
+Knowledge is power.
+
+-QuickBot
